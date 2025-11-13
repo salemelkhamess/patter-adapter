@@ -1,4 +1,5 @@
-package org.example;
+package org.example.cumputer;
 
-public class VGA {
+public interface VGA {
+    void  print(String message);
 }
